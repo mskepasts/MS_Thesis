@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "oneNode": {
+      "commandName": "Project",
+      "commandLineArgs": "/runscript=\"-open C:\\Users\\mskep\\Dropbox\\MS_21_Thesis\\1.CAD\\algorithm_gridshell.3dm -grasshopper document open C:\\Users\\mskep\\Dropbox\\MS_21_Thesis\\1.CAD\\120812_study.gh _enter\""
+    }
+  }
+}

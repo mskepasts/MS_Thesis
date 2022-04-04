@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvT2/vPlLwx1Cp4cxRQXunnw2YR3f5mWqJpGDAjovVC8CALCc+qU7KtIZnAnfLIiUE5DBe32+Ql1MDyyjgaamw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mskep\\Dropbox\\MS_21_Thesis\\c# coding\\oneNode\\oneNode\\oneNode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mskep\\.nuget\\packages\\grasshopper\\7.13.21348.13001\\grasshopper.7.13.21348.13001.nupkg.sha512",
+    "C:\\Users\\mskep\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

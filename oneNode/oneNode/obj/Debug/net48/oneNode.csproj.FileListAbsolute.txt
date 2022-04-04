@@ -1,0 +1,18 @@
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\bin\Debug\net48\oneNode.gha
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\bin\Debug\net48\oneNode.pdb
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.AssemblyInfoInputs.cache
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.AssemblyInfo.cs
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.csproj.CoreCompileInputs.cache
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.gha
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.pdb
+C:\Users\mskep\Dropbox\MS_21_Thesis\c# coding\oneNode\oneNode\obj\Debug\net48\oneNode.csproj.AssemblyReference.cache
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\bin\Debug\net48\oneNode.gha
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\bin\Debug\net48\oneNode.pdb
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.csproj.AssemblyReference.cache
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.AssemblyInfoInputs.cache
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.AssemblyInfo.cs
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.csproj.CoreCompileInputs.cache
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.gha
+C:\Users\mskep\Source\Repos\mskepasts\MS_Thesis\oneNode\oneNode\obj\Debug\net48\oneNode.pdb
